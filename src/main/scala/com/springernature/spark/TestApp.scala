@@ -3,6 +3,8 @@ package com.springernature.spark
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext
+import org.apache.spark.mllib.clustering.KMeans
+import org.apache.spark.mllib.linalg.Vectors
 import org.apache.spark.rdd.RDD
 
 object TestApp extends App {
@@ -20,11 +22,22 @@ object TestApp extends App {
 
   val words = lines.flatMap((line: String) => line.split(" "))
   println("Number of words:" + words.count)
-  // Transform into pairs and count.
-//  val counts: RDD[(String, Int)] = words.map(word => (word, 1)).reduceByKey{case (x, y) => x + y}
-  // Save the word count back out to a text file, causing evaluation.
-//  counts.saveAsTextFile(outputFile)
-//  counts.foreach(x => println(x._1  + ":" + x._2))
+
+  // Parse the data
+  val parsedData = lines.map(s => Vectors.dense(s.split(' ').map(_.toDouble))).cache()
+
+  // Cluster the data into two classes using KMeans
+  val numClusters = 2
+  val numIterations = 20
+  val clusters = KMeans.train(parsedData, numClusters, numIterations)
+
+  // Evaluate clustering by computing Within Set Sum of Squared Errors
+  val WSSSE = clusters.computeCost(parsedData)
+  println("Within Set Sum of Squared Errors = " + WSSSE)
+
+  // Save and load model
+//  clusters.save(sc, "target/org/apache/spark/KMeansExample/KMeansModel")
+//  val sameModel = KMeansModel.load(sc, "target/org/apache/spark/KMeansExample/KMeansModel")
 
 
 
