@@ -1,0 +1,39 @@
+group 'com.springernature.dhorby'
+version '1.0-SNAPSHOT'
+
+
+apply plugin: 'scala'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+    maven {
+        name "typesafe-maven-release"
+        url "https://repo.typesafe.com/typesafe/maven-releases"
+    }
+    ivy {
+        name "typesafe-ivy-release"
+        url "https://repo.typesafe.com/typesafe/ivy-releases"
+        layout "ivy"
+    }
+}
+
+def scalaVersion = '2.11'
+
+dependencies {
+
+    compile (group: 'org.apache.spark', name: 'spark-mllib_2.11', version: '2.0.2')
+
+
+    // https://mvnrepository.com/artifact/org.apache.spark/spark-core_2.10
+//    compile group: 'org.apache.spark', name: 'spark-core_2.10', version: '2.2.0'
+    // https://mvnrepository.com/artifact/org.apache.spark/spark-mllib_2.10
+//    compile group: 'org.apache.spark', name: 'spark-mllib_2.10', version: '2.2.0'
+
+
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

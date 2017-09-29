@@ -1,0 +1,583 @@
+
+Skip to main content
+Skip to sections
+
+Advertisement
+SpringerLink
+Search
+
+    Home
+    Contact Us
+    Log in
+
+You're seeing our new chapter page and we'd like your opinion,  send feedback
+Atlas of Environmental Risks Facing China Under Climate Change
+
+Atlas of Environmental Risks Facing China Under Climate Change pp 51-108 | Cite as
+Heat Health Risks
+
+    Authors
+    Authors and affiliations
+
+    Xinchuang XuEmail authorQuansheng GeXingcai Liu
+
+    Xinchuang Xu
+        12Email author
+    Quansheng Ge
+        1
+    Xingcai Liu
+        3
+
+    1.Key Laboratory of Land Surface Pattern and Simulation, Institute of Geographic Sciences and Natural Resources ResearchChinese Academy of SciencesBeijingChina
+    2.The School of Resources Environment Science and TechnologyHubei University of Science and TechnologyXianningChina
+    3.Key Laboratory of Water Cycle and Related Land Surface Processes, Institute of Geographic Sciences and Natural Resources ResearchChinese Academy of SciencesBeijingChina
+
+Chapter
+First Online: 13 July 2017
+
+    23 Downloads 
+
+Part of the IHDP/Future Earth-Integrated Risk Governance Project Series book series (IHDP-FEIRG)
+Abstract
+
+High temperature is a natural hazard linking with excess mortality and morbidity (Kovats and Hajat 2008). High temperature can induce heat stroke, communicable disease, cardiovascular disease, and respiratory disease (Basu and Ostro 2008; Hajat et al. 2005).
+Download fulltext PDF
+3.1 Background
+High temperature is a natural hazard linking with excess mortality and morbidity (Kovats and Hajat 2008). High temperature can induce heat stroke, communicable disease, cardiovascular disease, and respiratory disease (Basu and Ostro 2008; Hajat et al. 2005). Individuals with limited mobility due to physical disability, or those who are medically fragile will be subject to greater risks (Díaz et al. 2006). The influence of high temperature on mortality has been found in China during the past. Additionally, the frequency and intensity of high temperature are projected to increase along with the global warming in the future in China. Therefore, the risks that high temperature imposes to human health have recently been a hot topic (Kovats and Hajat 2008). Using five models data, we assessed risks of mortality in high temperature under four future emission scenarios (RCP2.6, RCP4.5, RCP6.0, and RCP8.5) (Fig. 3.1).
+Open image in new window
+Fig. 3.1
+
+Flow chart of assessing the risk on mortality in high temperature in the future scenarios
+3.2 Method
+3.2.1 High Temperature Days and Heat Waves
+
+The high temperature day is defined as the day with temperature above 35 °C. The heat wave is defined as the weather that continues for at least three days, during which the maximum daily temperature is above the temperature of 95th percentile in the period of 1981–2010. Another criterion for heat waves is that the daily temperature does not fall below 32 °C. In this chapter, the mean number of days with temperature exceeding 35 and 40 °C, heat waves, and the maximum temperature of a year was calculated and mapped.
+3.2.2 Population Vulnerability
+
+This study uses the mortality increment (Mi) in each degree centigrade above the threshold temperature to represent the population vulnerability on high temperature. The threshold temperatures and Mi were obtained from relationships between mortality and daily highest temperature in summer of China. The model between Mi and threshold temperature was made through following steps (Fig. 3.1).
+Firstly, we searched literatures on the mortality in high temperature by the keywords such as “weather,” “temperature,” “mortality,” and “heat” in the major Chinese and English databases. Secondly, we selected the literatures, which studied the relationship between population mortality and the daily maximum temperature in summer, presenting a mortality threshold temperature or a curve on mortality and high temperature to judge the mortality threshold temperature and its increment value for each 1 °C above the threshold temperature. The relation as reported in the literatures was summarized in Table 3.1.
+Table 3.1
+
+The relation between mortality and maximum daily temperature in summer
+
+City
+	
+
+Period
+	
+
+Threshold temperature (°C)
+	
+
+Mi (%)
+	
+
+Data characters
+	
+
+Literatures
+
+Guangzhou
+	
+
+2000–2004
+	
+
+34
+	
+
+3
+	
+
+Ta
+	
+
+Qu et al. (2009)
+
+Guangzhou
+	
+
+1979–1989
+	
+
+34
+	
+
+7.5
+	
+
+C/Ta
+	
+
+Wang and Lei (1997), Tan (1994)
+
+Guangzhou
+	
+
+2006–2010
+	
+
+34
+	
+
+4.8
+	
+
+T
+	
+
+Zeng (2013)
+
+Zhuhai
+	
+
+2006–2010
+	
+
+34
+	
+
+4.6
+	
+
+T
+	
+
+Zeng (2013)
+
+Nanxiong
+	
+
+2006–2010
+	
+
+34
+	
+
+15.4
+	
+
+T
+	
+
+Zeng (2013)
+
+Haerbin
+	
+
+2002–2010
+	
+
+30
+	
+
+7.5
+	
+
+C/T
+	
+
+Li et al. (2014)
+
+Suzhou
+	
+
+2005–2008
+	
+
+36
+	
+
+23.1
+	
+
+T
+	
+
+Lim et al. (2015)
+
+Nanjing
+	
+
+1994–2003
+	
+
+36
+	
+
+25
+	
+
+Ca
+	
+
+Li et al. (2005)
+
+Shenzhen
+	
+
+2004–2010
+	
+
+33
+	
+
+4
+	
+
+T
+	
+
+Li et al. (2014)
+
+Chongqing
+	
+
+2011–2012
+	
+
+34
+	
+
+5.5
+	
+
+C/T
+	
+
+Li et al. (2014)
+
+Wuhan
+	
+
+1998–2008
+	
+
+36
+	
+
+30
+	
+
+T
+	
+
+Yang et al. (2013)
+
+Shanghai
+	
+
+1979–1989
+	
+
+34
+	
+
+23
+	
+
+C/T
+	
+
+Tan (1994)
+
+Changsha
+	
+
+2006–2009
+	
+
+37
+	
+
+24.89
+	
+
+T
+	
+
+Sun et al. (2012)
+
+Wulumuqi
+	
+
+2006–2007
+	
+
+32
+	
+
+6.6
+	
+
+T
+	
+
+Lim et al. (2015)
+
+Xi’an
+	
+
+2004–2008
+	
+
+35
+	
+
+0.5
+	
+
+T
+	
+
+Lim et al. (2015)
+
+Lanzhou
+	
+
+2004–2008
+	
+
+33
+	
+
+2.1
+	
+
+T
+	
+
+Lim et al. (2015)
+
+Tianjing
+	
+
+2005–2008
+	
+
+35
+	
+
+7
+	
+
+T
+	
+
+Lim et al. (2015)
+
+aC refers to the curve, T refers to the threshold, C/T refers that both curve and threshold were given in the literature. Mi is the percent of mortality increment
+Based on Table 3.1, the relationship curves between Mi and threshold temperatures is built, and the model equation is given in Eq. 3.1
+Mi=5179210−794104.82539×Tv+47413.08018×T2v−1431.3192×T3v+21.571523×T4v−0.1298413×T5v
+(3.1)
+where Mi is the mortality increment for each 1 °C above the threshold temperature, Tv refers to the threshold temperature on population mortality, and the range value Tv is between 30 and 38 °C. The R2 of the fitting curve is 0.53, and the p is less than 0.01.
+Based on Table 3.1, the relationship curves between the threshold temperature and mean temperature was also fitted for cities in summer during the period of 1961–2010. The threshold temperature was calculated in China according to the relation model of Eq. 3.2.
+Tv=0.5664t¯+19.52
+(3.2)
+where Tv refers to the threshold temperature, t¯ is the mean temperature of the city in summer. The R2 of the fitting curve is 0.60, and the p is less than 0.01.
+3.2.3 Population Mortality Hazard
+This study employed the value of exceeding threshold temperature to represent the hazard intensity for population in high temperature. The hazard was calculated according to Eq. 3.3.
+Hd=∑i=17(Ti−Tv)×Pi
+(3.3)
+where Hd refers to the heat hazard index, Ti represents the temperature above the threshold temperature on mortality (°C), Tv refers to the threshold temperature of population mortality (°C), and Pi refers to probability caused by the daily maximum temperature above the threshold. The hazard indices were divided into ten ranks from one (low) to ten (high) by the natural break method.
+3.2.4 Population Exposure
+
+In this study, the population of every 1 × 1 km grid cell in 2000s, 2030s, 2060s, and 2090s was used to represent the exposure of population suffered from high temperature. This data was obtained from the Greenhouse Gas Initiative (GGI) of the International Institute for Applied Systems Analysis (IIASA: http://www.iiasa.ac.at). The data include projections under three scenarios, namely, A2, B1, and B2. We selected the data of A2 and B1 to represent the scenarios of RCP8.5 and RCP2.6.
+3.2.5 Population Mortality Risk
+Based on the risk theory, the mortality risk for each county was estimated using Eq. 3.4.
+POPd=365×Hd×Mi×E×Dr92
+(3.4)
+where POPd refers to the population mortality risk of a year in different periods (2011–2040, 2041–2070, and 2071–2099). Mi is the mortality increment for each 1.0 °C above the threshold temperature (%). Dr represents the population mortality rate during the summer of each county. E is the population exposure to high temperature. The mortality risk is divided into ten ranks one (low) to ten (high) by the natural break method.
+3.3 Results
+3.3.1 Spatiotemporal Distribution of High Temperature and Heat Waves
+
+The number of days exceeding 35 °C, 40 °C, and heat waves are all increasing during the different periods under the RCP2.6, RCP4.5, RCP6.0, and RCP8.5 scenarios. When compared with the pre-2040s increase, a more speedy increase is projected after the 2040s.
+
+The values of all variables on high temperature are almost all higher under the RCP8.5 than the RCP2.6 during the different periods. The areas of the north, center, and northwest of China are severely suffered from high temperature.
+3.3.2 Spatiotemporal Distribution of Population Mortality Hazard
+
+The mortality hazard on high temperature is the highest in the RCP8.5, and the lowest in the RCP2.6 in China. The increment trend of mortality hazard will be developed from north to south in China during the year 2011–2100. Under all the four scenarios, the highest hazard occurs in the northwest followed by the north and the mid and lower reaches of the Yangtze River.
+3.3.3 Spatiotemporal Distribution of Population Mortality Risk
+
+The population mortality risk is the highest in the middle of North China under the four emission scenarios. The area of the mid-lower reaches of the Yangtze River is the area with the second highest risk. The risks of other areas from high to low are southwest, southeast, northeast, and northwest of China.
+3.3.4 Uncertainty Analysis in High Temperature Over 2071–2099 for RCP8.5
+
+The various uncertainty of high temperature projection is analyzed by intermodal spread of temperature changes. The projected numbers of days with temperature above 35 °C have high uncertainty in southeast China. The uncertainty of projected number of days with temperature above 40 °C is largest in the middle reaches of the Yangtze River, while the uncertainty is lowest in northeast China. The uncertainty of the maximum temperature in a year is higher in northwest China than those in other regions. For the heat wave projection, the high uncertainty mainly distributes in the southeast and north of China. The higher uncertainty of population mortality hazard is found in the northwest and the middle reaches of the Yangtze River, while the northeast of China has lower uncertainty. The uncertainty of population mortality risk is high in the north China and the middle reaches of the Yangtze River.
+3.4 Maps
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+
+Open image in new window
+References
+
+    Basu, R., & Ostro, B. (2008). Multicounty analysis identifying the populations vulnerable to mortality associated with high ambient temperature in California. American Journal of Epidemiology, 168, 632–637.CrossRefGoogle Scholar
+    Díaz, J., Linares, C., & Tobías, A. (2006). Impact of extreme temperatures on daily mortality in Madrid (Spain) among the 45–64 age-group. International Journal of Biometeorology, l50, 342–348.Google Scholar
+    Hajat, S., Armstrong, B., Gouvcia, N., & Wilkinson, P. (2005). Mortality displacement of heat-related deaths: A comparison of Delhi, Sao Paulo, and London. Epidemology, 16, 613–620.CrossRefGoogle Scholar
+    Kovats, R., & Hajat, S. (2008). Heat stress and public health: A critical review. Annual Review Public Health, 29, 41–55.CrossRefGoogle Scholar
+    Li, Y., Chen, X., & Lin, P. (2005). The impact of high temperature on population death in a district of Nanjing. Journal of Environmental Health, 22(1), 6–8.Google Scholar
+    Li, Y., Lan, L., Cheng, Y., Cui, G., Yang, C., & Liu, Y., et al. (2014). High temperature sensitive diseases and vulnerable population in one district of Harbin. Journal of Environmental Hygiene, 4(4), 321–325 (in Chinese).Google Scholar
+    Lim, Y., Bell, M., Kan, H., Honda, Y., Guo, Y., & Kim, H. (2015). Economic status and temperature-related mortality in Asia. International Journal of Biometeorology, 59(10), 1405–1412.CrossRefGoogle Scholar
+    Qu, Y., Zhang, J., Dai, C., Wang, L., Liang, H., He, C., et al. (2009). Study on the relationship between temperature and residential death in a district of Guangzhou city from 2000 to 2004. Preventive Medicine Tribune, 15(9), 807–810.Google Scholar
+    Sun, Y., Li, L., & Zhou, M. (2012). Analysis of the lag-effects of temperature on the five cities’ mortality in China. Chinese Journal of Preventive Medicine, 11, 1015–1019. (in Chinese).Google Scholar
+    Tan, G. (1994). Potential impacts of global warming on human mortality in Shanghai and Guangzhou, China. Acta Scientiae Circumstantiae, 14(3), 368–373.Google Scholar
+    Wang, L., & Lei, L. (1997). The impact of the changing weather on the human mortality. Ecology Science, 16(2), 81–87.Google Scholar
+    Yang, H., Chen, Z., Xie, S., Ye, D., & Gong, J. (2013). Quantitative assessment of impact of extreme high temperature in summer on excess mortality in Wuhan. Journal of Meteorology and Environment, 29(5), 140–143.Google Scholar
+    Zeng, W. (2013). The impact of heat waves on mortality and the effect modification by heat waves characteristics in four areas in Guangdong Province, China. Guangdong, China: Jinan University.Google Scholar
+
+Copyright information
+© Springer Nature Singapore Pte Ltd. 2018
+About this chapter
+
+Cite this chapter as:
+    Xu X., Ge Q., Liu X. (2018) Heat Health Risks. In: Tang Q., Ge Q. (eds) Atlas of Environmental Risks Facing China Under Climate Change. IHDP/Future Earth-Integrated Risk Governance Project Series. Springer, Singapore
+
+    DOI https://doi.org/10.1007/978-981-10-4199-0_3 Publisher Name Springer, Singapore Print ISBN 978-981-10-4198-3 Online ISBN 978-981-10-4199-0 eBook Packages Earth and Environmental Science 
+
+    About this book
+    Reprints and Permissions
+
+    PDF
+    EPUB
+
+Actions
+
+    PDF
+    EPUB
+
+    How to cite?
+    .RIS Papers Reference Manager RefWorks Zotero
+    .ENW EndNote
+    .BIB BibTeX JabRef Mendeley
+
+    Email
+    Facebook
+    Twitter
+    LinkedIn
+
+Table of contents
+
+    Chapter
+    Abstract
+    3.1 Background
+    3.2 Method
+    3.3 Results
+    3.4 Maps
+    References
+    Copyright information
+    About this chapter
+
+Over 10 million scientific documents at your fingertips
+
+    Corporate Edition
+
+    Home Impressum Legal Information Accessibility Contact Us 
+
+Springer Nature
+
+© 2017 Springer International Publishing AG. Part of Springer Nature.
+
+Not logged in Nature Publishing Group (3001592458) 31.221.90.4
